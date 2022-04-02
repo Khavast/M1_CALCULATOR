@@ -5,4 +5,5 @@
 [ShilpaKhavast-NDG Linux Unhatc-certificate.pdf](https://github.com/Khavast/M1_CALCULATOR/files/8378126/ShilpaKhavast-NDG.Linux.Unhatc-certificate.pdf)
 .First day on github/screenshot
 ![github screenshot](https://user-images.githubusercontent.com/89598346/160777495-3d415886-4c4c-4552-b9fc-a7b5d56816a2.jpeg)
+.GIT TRAINING[2266672_Git_Training_3309748-1.pdf](https://github.com/Khavast/M1_CALENDAR/files/8402185/2266672_Git_Training_3309748-1.pdf)
 
