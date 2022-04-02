@@ -34,7 +34,7 @@ void SetColor(int ForgC)
 }
 
 
-char *month[]={"January","February","March","April","May","June","July","August","September","October","November","December"};
+char *month[]={"Jan","Feb","Mar","Apr","May","June","July","Aug","Sep","Oct","Nov","Dec"};
 char *week[]={"Mon","Tue","Wed","Thu","Fri","Sat","Sun"};
 
 int main()
