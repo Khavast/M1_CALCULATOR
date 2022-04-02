@@ -45,7 +45,7 @@ For instance, traditional calendars are great for planning your day, but terribl
      
         .virus attacks are the threats of the calendar
         
-        .Template of calendar
+   .Template of calendar
         
       (https://user-images.githubusercontent.com/89598346/161375417-e03d537c-7380-412a-a240-fdbae8c188a8.png)
 
